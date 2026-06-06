@@ -85,6 +85,7 @@ Uses HTTP 402 "Payment Required" for instant stablecoin payments over HTTP. Buil
 - [x402 Specification](https://github.com/coinbase/x402/tree/main/specs) - Full technical specification.
 - [x402 Coinbase Documentation](https://docs.cdp.coinbase.com/x402/welcome) - Developer docs and quickstart.
 - [x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) - Solana integration guide.
+- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - Production x402 MCP server on Solana for AI agent trust scoring — free preflight checks + paid signed V5 trust receipts settled in <1s. Live endpoint: `https://intel.twzrd.xyz/mcp`
 
 ### L402
 
